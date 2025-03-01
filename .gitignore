@@ -33,6 +33,6 @@ yarn-error.*
 .env*.local
 
 # typescript
-*.tsbuildinfo
+*Theme.tsbuildinfo
 
 app-example
